@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 flask = "*"
 python-dotenv = "*"
+mysql-connector-python = "*"
+google-auth = "*"
+google-auth-oauthlib = "*"
+google-auth-httplib2 = "*"
+requests = "*"
 
 [dev-packages]
 
